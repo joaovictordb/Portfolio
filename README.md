@@ -1,2 +1,2 @@
 # Portfolio_Incode
-Portfólio feito para o desafio 1 da Incode tech School utilzando HTML e CSS
+Portfólio Com HTML e CSS puro
